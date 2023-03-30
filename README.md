@@ -32,6 +32,8 @@ Note that this depth measurement method only applies to objects in the daytime a
 ![enter image description here](https://i.postimg.cc/YSCcdcDk/workflow.jpg)
 ## Mechanical Aspects of design
 The project involves creating a 3D model prototype using SolidWorks and 3D printing it using UltiMaker Cura. This prototype serves as the base for the hardware setup and includes a Raspberry Pi incorporated with a Pi Cam, power source and audio aids.
+
+
 ![enter image description here](https://i.postimg.cc/L4CYdLGq/photo-2023-03-29-23-46-18.jpg)
 
 ![photo-2023-03-29-23-46-21.jpg](https://i.postimg.cc/7ZNKDB41/photo-2023-03-29-23-46-21.jpg)
@@ -87,9 +89,8 @@ The major tech stack for this project is built on the programming language Pytho
  -   The object name along with its distance is relayed; if no object is present within the vision proximity, ‘Nothing close enough’ is conveyed
  -   The object detection and distance observed is found to be quite accurate to the actual value, signifying a robust and efficient algorithm
 
-
-![OK](https://i.postimg.cc/c4XD1K47/New-Project.png)
-![OK](https://i.postimg.cc/50DmQvQT/New-Project-1.png)
+![enter image description here](https://i.postimg.cc/sxQPS2SJ/New-Project.png)
+![OK](https://i.postimg.cc/Y2RwcYPV/New-Project-1.png)
 ## Limitations
  -   Currently the model functions upon roadside objects with limited object entries.    
  -   The device doesn’t function properly under dim light conditions.
