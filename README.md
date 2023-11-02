@@ -63,6 +63,12 @@ The major tech stack for this project is built on the programming language Pytho
   ![enter image description here](https://i.postimg.cc/63fJ59mk/photo-2023-03-29-23-45-24.jpg)
   ![enter image description here](https://i.postimg.cc/Y9DN0VDg/photo-2023-03-29-23-45-36.jpg)
   ![enter image description here](https://i.postimg.cc/bY5LSXfW/photo-2023-03-29-23-45-31.jpg) 
+## Prerequisites and Installation
+- Download the src folder
+- Install the necessary dependencies by using the following command:<br>
+  `pip install cvzone mediapipe matplotlib pyttsx3 keyboard`
+- Run the `main.py` file
+- Objects detected will be visible marked and the audio output can be listened by any keyboard input (in our case was an earbud tap)
 ## Cost Structure
 |Components| Cost ( in INR) |
 |--|--|
